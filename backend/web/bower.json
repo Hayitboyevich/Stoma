@@ -1,0 +1,21 @@
+{
+  "name": "web",
+  "authors": [
+    "Sanjar Jabborov <sanjar.jabborov@ssdsoftwaresolutions.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower-asset",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "select2": "^4.0.13"
+  }
+}
